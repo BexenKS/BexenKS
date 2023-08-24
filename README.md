@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BexenKS
 - 👀 I’m interested in learn and graduate
-- 🌱 I’m currently learning web programming
+- 🌱 I’m currently learning mobile programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
